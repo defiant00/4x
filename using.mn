@@ -1,2 +1,3 @@
-use console
+use console, document
 	log for console.log
+	getById for document.getElementById
