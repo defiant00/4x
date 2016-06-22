@@ -1,0 +1,17 @@
+Game
+	.turnCounter
+	.player : Player{}
+	
+Player
+	.name
+	
+World
+	.tiles
+	
+Map
+	.location
+	
+Tile
+	.type
+
+	
